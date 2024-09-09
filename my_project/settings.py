@@ -27,8 +27,7 @@ DEBUG = False
 
 ALLOWED_HOSTS = [
     '8000-goca7-djangoproject-dpg42ojmouy.ws.codeinstitute-ide.net',
-    '.herokuapp.com',
-]
+    '.herokuapp.com']
 
 
 # Application definition
